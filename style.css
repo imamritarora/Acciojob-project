@@ -1,0 +1,15 @@
+footer{
+    position:fixed;
+    bottom: 0px;
+    width: 100%;
+   
+}
+.img-class{
+    display: flex;
+    position: relative;
+    z-index: 100;
+}
+.img-class .content{
+    margin-top: 66px;
+
+}
